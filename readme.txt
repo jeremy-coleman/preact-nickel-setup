@@ -68,3 +68,16 @@ https://github.com/nickel-org/session
 https://github.com/SimonPersson/nickel-auth
 https://github.com/flosse/nickel-sqlite
 https://github.com/servo/rust-url
+
+[see also]
+https://github.com/async-graphql/examples
+https://github.com/tokio-rs/axum/tree/main/examples
+
+other notes:
+tonic is the fastest single threaded grpc server
+rust/tokio multithreaded is actually slow. its just a rewritten version of go's scheduler.
+for multithreaded servers, lots of contenders including dotnet and scala akka
+
+[dpdk for the brave]
+https://elixir.bootlin.com/dpdk/v23.03/source
+https://github.com/scylladb/seastar
