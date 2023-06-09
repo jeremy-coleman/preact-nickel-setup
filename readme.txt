@@ -81,3 +81,6 @@ for multithreaded servers, lots of contenders including dotnet and scala akka
 [dpdk for the brave]
 https://elixir.bootlin.com/dpdk/v23.03/source
 https://github.com/scylladb/seastar
+
+[bytedance knows]
+https://github.com/bytedance/monoio/blob/master/docs/en/benchmark.md
